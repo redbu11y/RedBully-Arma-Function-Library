@@ -1,0 +1,6 @@
+// Include structure for the functions.
+
+class CFGFunctions {
+    #include "functions\wreckLoading\functions.hpp"
+    #include "functions\cargoLoading\functions.hpp"
+};
